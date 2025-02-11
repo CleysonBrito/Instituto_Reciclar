@@ -464,6 +464,7 @@ function Gerenciador() {
               <option value="L">Litros</option>
               <option value="ml">Mili-Litros</option>
               <option value="un">Unidade</option>
+              <option value="un">Unidade</option>
             </select>
             </div>
             <label>Unidade de Medida:</label>
